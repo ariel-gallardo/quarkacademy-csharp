@@ -8,5 +8,6 @@
         public string CodigoPrenda { get; set; }
         public int Unidades { get; set; }
         public double Calculo { get; set; }
+        public override string ToString() => $"{Identificacion} {Fecha.ToString("dd/MM/yy")} - V{CodigoVendedor} - P{CodigoPrenda} {Unidades}U {Calculo}$";
     }
 }

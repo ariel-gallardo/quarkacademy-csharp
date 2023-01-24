@@ -6,5 +6,6 @@
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public List<Cotizacion> Cotizaciones { get; set; } = new List<Cotizacion>();
+        public override string ToString() => $"{Codigo} - {Nombre} {Apellido}";
     }
 }
