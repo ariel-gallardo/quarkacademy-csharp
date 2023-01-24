@@ -13,4 +13,17 @@
 	<DebugType>None</DebugType>
 	<DebugSymbols>false</DebugSymbols>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="compile\**" />
+    <Compile Remove="releases\**" />
+    <EmbeddedResource Remove="compile\**" />
+    <EmbeddedResource Remove="releases\**" />
+    <None Remove="compile\**" />
+    <None Remove="releases\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
 </Project>
