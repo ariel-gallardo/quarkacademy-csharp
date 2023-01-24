@@ -27,4 +27,4 @@
 
 3. Implementar las clases creando los miembros necesarios.
 
-![quarkacademy-csharp drawio (3)](https://user-images.githubusercontent.com/38444032/214431049-6b867512-4133-4c5e-b5f3-2fe9c274be88.svg)
+![quarkacademy-csharp drawio (6)](https://user-images.githubusercontent.com/38444032/214444010-e27664b9-0f12-4644-ab6d-350d41819d89.svg)
