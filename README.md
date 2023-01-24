@@ -11,20 +11,17 @@
 3. **Ejecutar**
 
 ---
-# Parte A
+# Parte B
 
-1. Realizar un diagrama de clases que modele la entidad **Vendedor**. El usuario del programa sera el vendedor de una tienda de ropa mayorista. En principio, un vendedor posee **Nombre, Apellido y Codigo de Vendedor**.
+1. Modelar las entidades especificadas a continuaciön y relacionarlas segün
+corresponda.
 
-2. El vendedor, podra realizar distintas **Cotizaciones** antes de Ilevar a cabo una Venta Las cotizaciones se deberan almacenar en un historial del vendedor.
+El **Vendedor** trabaja en una **Tienda** de ropa Esta ültima posee un **Nombre, Direccion**
+y un listado de distintas **Prendas** para vender.
 
-> Una Cotizacion se compone de los siguientes atributos
-* Numero de identificacion
-* Fecha y Hora de la cotizacion
-* Codigo del Vendedor que realiza la cotizacion
-* Prenda cotizada
-* Cantidad de unidades cotizadas
-* Resultado del cålculo de la cotizacion.
+Una prenda tiene algunas propiedades como: **calidad** de prenda (standard o
+Premium), **precio unitario** de la prenda y **cantidad** de unidades en stock.
 
-3. Implementar las clases creando los miembros necesarios.
+2. Implementar las clases creando los atributos necesarios.
 
 ![quarkacademy-csharp drawio (6)](https://user-images.githubusercontent.com/38444032/214444010-e27664b9-0f12-4644-ab6d-350d41819d89.svg)
