@@ -1,3 +1,6 @@
 **/obj
 **/.vs
 **/compile
+**/bin
+**/Debug
+**/Release
