@@ -24,4 +24,4 @@ Premium), **precio unitario** de la prenda y **cantidad** de unidades en stock.
 
 2. Implementar las clases creando los atributos necesarios.
 
-![quarkacademy-csharp drawio (7)](https://user-images.githubusercontent.com/38444032/214452014-3f1ab49b-148c-4e88-a0ab-2b59ed514f1d.svg)
+![quarkacademy-csharp drawio (8)](https://user-images.githubusercontent.com/38444032/214453595-4b843fe9-6fbb-4992-9248-c09422befe58.svg)
